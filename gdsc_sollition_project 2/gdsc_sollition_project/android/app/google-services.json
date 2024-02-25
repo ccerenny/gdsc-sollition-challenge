@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "599326275912",
+    "project_id": "gdsc-sollition-project",
+    "storage_bucket": "gdsc-sollition-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599326275912:android:4e9af8752ceca812625b7d",
+        "android_client_info": {
+          "package_name": "com.example.gdsc_sollition_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC42x7lH452jrxxhHTK0diww11eLbj--SE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
